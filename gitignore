@@ -1,0 +1,54 @@
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.gch
+
+# Compiled static libraries
+*.lib
+*.a
+*.la
+
+# Compiled dynamic libraries / shared objects
+*.dll
+*.so
+.so.
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+.dSYM/
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# IDE files
+.vcxproj
+*.sln
+*.user
+*.suo
+*.xcodeproj/
+*.idea/
+*.vscode/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
